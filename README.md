@@ -1,7 +1,7 @@
 # Brawl-Stars-v65-ui-server
 brawl stars ui server in 65 version
 
-telegram channel: soon
+[telegram channel](https://t.me/brawldare)
 
 <img width="2556" height="1179" alt="Menu" src="https://github.com/user-attachments/assets/6341cafc-0c14-49eb-afca-3e1e9192101c" />
 

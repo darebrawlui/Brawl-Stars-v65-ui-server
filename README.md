@@ -1,5 +1,5 @@
 # Brawl-Stars-v65-ui-server
-brawl stars ui server in 65 version
+brawl stars ui server in 64 version
 
 telegram channel: soon
 
